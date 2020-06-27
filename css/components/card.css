@@ -1,0 +1,29 @@
+.card {
+  height: 400px;
+  border-radius: 8px;
+  box-shadow: 4px 4px 8px rgba(0,0,0,0.1);
+}
+
+.card-eclipse {
+  background: #40363B;
+}
+
+.card-eastbay {
+  background: #4E586F;
+}
+
+.card-vulcan {
+  background: #181719;
+}
+
+.card-candy {
+  background: #EE7477;
+}
+
+.card-lust {
+  background: #E52726;
+}
+
+.card-biscay {
+  background: #1A3D68;
+}

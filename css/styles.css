@@ -1,0 +1,15 @@
+/* --- Font imports --- */
+@import url('https://fonts.googleapis.com/css2?family=Molle:ital@1&display=swap');
+
+/* --- Component imports --- */
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/navbar.css");
+@import url("components/footer.css");
+
+/* --- Fonts & colors --- */
+body {
+  background-color: rgb(230,230,230);
+  font-family: 'Molle', cursive;
+  margin: 0;
+}
