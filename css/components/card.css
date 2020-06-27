@@ -1,7 +1,7 @@
 .card {
   height: 400px;
   border-radius: 8px;
-  box-shadow: 4px 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 8px 8px 16px rgba(0,0,0,0.2);
 }
 
 .card-eclipse {
